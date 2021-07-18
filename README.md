@@ -23,7 +23,11 @@ VGG16:
   
 <br />
 <br />
-  
+  The Kaggle dataset was used for creating this model and the dataset could be accessed through the following link 
+ 
+<br />
+<br />
+ https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
 <br />
 <br />
   I have attached the source code for the project in .ipynb format and also in pdf format with detailed explanation below each line for better understanding. The results of the prediction and also loss function plot is also uploaded here for reference. Details like number of layer, number of neurons per layer are clearly understandable through the image of the model summary that is also uploaded here. We were able to derive accuracy of 92.14 %
